@@ -1,3 +1,9 @@
+# Environments
 /python3-env/
+
+# IDEs
 .idea
 .DS_store
+
+# Data
+db.sqlite3
