@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     background-color: black; 
-    color: aliceblue; 
+    color: rgb(255, 255, 255); 
     padding-left: 8px; 
 }
 header {
@@ -24,7 +24,7 @@ header {
     padding-right: 20px;
 }
 a{
-    color:aliceblue;
+    color:rgb(255, 255, 255);
     size: 16px;
 }
 
@@ -90,5 +90,40 @@ input {
     top: 0;
     font-size: 50px;
     fill: white;
-    color: aqua;
+    color: rgb(0, 0, 0);
+}
+.br{
+    color: black;
+}
+.div4{
+   display: flex;
+   justify-content:right;
+   padding-right: 50px;
+   padding-top: 50px;
+}
+
+.cancel{
+    color:#D1CB30;
+    padding: 15px 20px 15px 20px;
+    border-radius: 22px;
+    border-color: #D1CB30;
+    font-size: 100%;
+    margin-right: 20px;
+}
+.continue{
+    color:#D1CB30;
+    padding: 15px 20px 15px 20px;
+    border-radius: 22px;
+    border-color: #D1CB30;
+    font-size: 100%;
+    margin-right: 20px;
+}
+.e{
+    margin-top: 25px;
+    color:#D1CB30;
+    padding: 15px 20px 15px 20px;
+    border-radius: 22px;
+    border-color: #D1CB30;
+    font-size: 100%;
+    margin-right: 20px;
 }
